@@ -24,3 +24,5 @@ You'll cover the following things:
 Download this repository to your computer and then follow the videos to walk through the exercise.
 
 1. [Creating a readable current date.](https://youtu.be/IH9fUHQzwXw)
+2. [Display time at page load.](https://youtu.be/nwowsjVlEGk)
+3. [Display active time on page.](https://youtu.be/YCuvzf2NLhk)
