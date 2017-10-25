@@ -4,7 +4,9 @@
 
 This exercise will walk you through display the current date and time on a web page using plain javascript.
 
-You'll cover the following things:
+See a working example at https://amajor.github.io/exercise-js-clock
+
+You'll cover the following topics:
 
 * document / DOM
 * getElementById()
