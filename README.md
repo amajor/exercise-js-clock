@@ -21,4 +21,6 @@ You'll cover the following things:
 
 ## Video Walk-Throughs
 
+Download this repository to your computer and then follow the videos to walk through the exercise.
+
 1. [Creating a readable current date.](https://youtu.be/IH9fUHQzwXw)
