@@ -18,3 +18,7 @@ You'll cover the following things:
 * remainder operator
 * functions
 * setTimeout()
+
+## Video Walk-Throughs
+
+1. [Creating a readable current date.](https://youtu.be/IH9fUHQzwXw)
